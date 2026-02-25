@@ -1,0 +1,20 @@
+# Binaries
+/bin/
+/dist/
+
+# Go build cache
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+gatorcli
+
+# Test binary
+*.test
+
+# Coverage output
+*.out
+
+# Shell scripts
+*.sh
